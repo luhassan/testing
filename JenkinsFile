@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Another Hope ya alaa insha2Allah test 002'
+                echo 'Another Hope ya alaa insha2Allah test 002-28'
             }
         }
     }
