@@ -1,6 +1,6 @@
 pipeline {
  agent { 
-        label 'lolah' 
+        label 'lolaz' 
     } 
     stages {
         stage('Hello') {
